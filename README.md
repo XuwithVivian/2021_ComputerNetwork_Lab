@@ -1,1 +1,3 @@
-# 2021_ComputerNetwork_Lab
+# 2021_USTC_ComputerNetwork_Lab
+
+中国科学技术大学2021秋华蓓老师计算机网络课程实验。
